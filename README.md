@@ -19,4 +19,14 @@ This repository documents a practical Git version control workflow using Git Bas
 
 ## Version Control Workflow
 
-Changes are reviewed, staged, and committed to maintain an organized project history.
+This repository demonstrates a structured Git workflow
+for tracking project changes and maintaining documentation.
+
+### Development Process
+
+- Review the current repository status.
+- Modify existing project files.
+- Create and organize new documentation.
+- Stage changes before committing.
+- Record updates using descriptive commit messages.
+- Synchronize the local repository with GitHub.
