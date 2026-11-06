@@ -38,3 +38,11 @@ independently from the main branch.
 
 Branching allows developers to implement updates
 while preserving the stability of the main project.
+
+## Feature Integration
+
+Completed changes from feature branches can be
+integrated into the main branch using Git merge.
+
+This workflow supports organized development
+and consistent version control.
