@@ -1,0 +1,5 @@
+# Ignore local credentials
+credentials/
+
+# Ignore private notes
+private_notes.txt
